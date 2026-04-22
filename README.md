@@ -1,24 +1,24 @@
-<h1 align="center">👋 Hola, soy Oscar Aguilera</h1>
+<h1 align="center">Hola, soy Oscar Aguilera</h1>
 <h3 align="center">Desarrollador Backend | .NET | SQL | Automatización</h3>
 
-💻 **Sobre mí**
+**Sobre mí**
 - Soy **Ingeniero en Informática** con experiencia en desarrollo backend usando **C#, ASP.NET MVC, Visual Basic .NET** y gestión de bases de datos **SQL Server** y **Oracle PL/SQL**.
 - He trabajado en sectores como **salud, educación y atención al cliente**, desarrollando sistemas robustos, integrando APIs REST y optimizando procesos de negocio.
 - Apasionado por la **automatización** y la **optimización de consultas**, siempre buscando mejorar el rendimiento y la calidad del código.
 
-🚀 **Actualmente**
+**Actualmente**
 - Aprendiendo y perfeccionando **Docker**, **entornos Cloud** y **buenas prácticas de arquitectura**.
 - Desarrollando proyectos propios y de práctica en **.NET**, **SQL**, y **automatización con Python**.
 - Enfocado en aplicar **principios SOLID** y **arquitectura limpia**.
 
-📂 **Proyectos**
+**Proyectos**
 - Puedes explorar todos mis proyectos aquí: [GitHub/OsaroAR](https://github.com/OsaroAR)
 
-🤝 **Busco colaborar en**
+**Busco colaborar en**
 - Proyectos backend en .NET o integraciones con bases de datos.
 - Automatización de procesos y optimización de rendimiento en aplicaciones.
 
-📫 **Contáctame**
+**Contáctame**
 - Email: **osaguilera2295@gmail.com**
 - LinkedIn: [Oscar Aguilera Rojas](https://www.linkedin.com/in/oscar-aguilera-rojas-b186a5181/)
 
